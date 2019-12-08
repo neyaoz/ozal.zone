@@ -1,6 +1,6 @@
-# Public DNS
+## Public DNS
 
-## Cloudflare + APNIC
+### Cloudflare + APNIC
 
 `1.1.1.1` is a partnership between Cloudflare and APNIC. Cloudflare runs one of the world’s largest, fastest networks. APNIC is a non-profit organization managing IP address allocation for the Asia Pacific and Oceania regions.
 
@@ -12,7 +12,7 @@ Cloudflare had the network. APNIC had the IP address (1.1.1.1). Both of us were 
 | ns2.cloudflare.ozal.zone | 1.0.0.1 | 2606:4700:4700::1001 |
 
 
-## Google Public DNS
+### Google Public DNS
 
 A free, global DNS resolution service that you can use as an alternative to your current DNS provider.
 
@@ -21,7 +21,7 @@ A free, global DNS resolution service that you can use as an alternative to your
 | ns1.google.ozal.zone | 8.8.8.8 | 2001:4860:4860::8888 |
 | ns2.google.ozal.zone | 8.8.4.4 | 2001:4860:4860::8844 |
 
-## OpenDNS (Cisco)
+### OpenDNS (Cisco)
 
 OpenDNS is the name of a Domain Name System (DNS) service as well as of the company that provides that service. The OpenDNS service extends the DNS by incorporating features such as content filtering and phishing protection. It is also touted as faster, more reliable and having zero downtime because of its global network of DNS servers that ensures that, if one or two servers are down, the others can still carry the slack.
 
@@ -30,7 +30,7 @@ OpenDNS is the name of a Domain Name System (DNS) service as well as of the comp
 | ns1.opendns.ozal.zone | 208.67.222.222 | 2620:119:35::35 |
 | ns2.opendns.ozal.zone | 208.67.220.220 | 2620:119:53::53 |
 
-## Verisign Public DNS
+### Verisign Public DNS
 
 Verisign Public DNS is a free DNS service that offers improved DNS stability and security over other alternatives. And, unlike many of the other DNS services out there, Verisign respects your privacy. We will not sell your public DNS data to third parties nor redirect your queries to serve you any ads.
 
@@ -39,9 +39,9 @@ Verisign Public DNS is a free DNS service that offers improved DNS stability and
 | ns1.verisign.ozal.zone | 64.6.64.6 | 2620:74:1b::1:1 |
 | ns2.verisign.ozal.zone | 64.6.65.6 | 2620:74:1c::2:2 |
 
-# Authoritative DNS
+## Authoritative DNS
 
-## NS Group A
+### NS Group A
 
 | FQDN            | IPv4           |
 |----------------:|:---------------|
@@ -50,7 +50,7 @@ Verisign Public DNS is a free DNS service that offers improved DNS stability and
 | ns3.a.ozal.zone | 216.239.36.106 |
 | ns4.a.ozal.zone | 216.239.38.106 |
 
-## NS Group B
+### NS Group B
 
 | FQDN            | IPv4           |
 |----------------:|:---------------|
@@ -59,7 +59,7 @@ Verisign Public DNS is a free DNS service that offers improved DNS stability and
 | ns3.b.ozal.zone | 216.239.36.107 |
 | ns4.b.ozal.zone | 216.239.38.107 |
 
-## NS Group C
+### NS Group C
 
 | FQDN            | IPv4           |
 |----------------:|:---------------|
@@ -68,7 +68,7 @@ Verisign Public DNS is a free DNS service that offers improved DNS stability and
 | ns3.c.ozal.zone | 216.239.36.108 |
 | ns4.c.ozal.zone | 216.239.38.108 |
 
-## NS Group D
+### NS Group D
 
 | FQDN            | IPv4           |
 |----------------:|:---------------|
@@ -77,7 +77,7 @@ Verisign Public DNS is a free DNS service that offers improved DNS stability and
 | ns3.d.ozal.zone | 216.239.36.109 |
 | ns4.d.ozal.zone | 216.239.38.109 |
 
-## NS Group E
+### NS Group E
 
 | FQDN            | IPv4           |
 |----------------:|:---------------|
@@ -86,7 +86,7 @@ Verisign Public DNS is a free DNS service that offers improved DNS stability and
 | ns3.e.ozal.zone | 216.239.36.110 |
 | ns4.e.ozal.zone | 216.239.38.110 |
 
-## NS Group F
+### NS Group F
 
 | FQDN            | IPv4           |
 |----------------:|:---------------|
