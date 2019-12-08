@@ -53,7 +53,7 @@ Verisign Public DNS is a free DNS service that offers improved DNS stability and
 ## NS Group B
 
 | FQDN            | IPv4           |
-|-----------------|----------------|
+|----------------:|:---------------|
 | ns1.b.ozal.zone | 216.239.32.107 |
 | ns2.b.ozal.zone | 216.239.34.107 |
 | ns3.b.ozal.zone | 216.239.36.107 |
@@ -62,7 +62,7 @@ Verisign Public DNS is a free DNS service that offers improved DNS stability and
 ## NS Group C
 
 | FQDN            | IPv4           |
-|-----------------|----------------|
+|----------------:|:---------------|
 | ns1.c.ozal.zone | 216.239.32.108 |
 | ns2.c.ozal.zone | 216.239.34.108 |
 | ns3.c.ozal.zone | 216.239.36.108 |
@@ -71,7 +71,7 @@ Verisign Public DNS is a free DNS service that offers improved DNS stability and
 ## NS Group D
 
 | FQDN            | IPv4           |
-|-----------------|----------------|
+|----------------:|:---------------|
 | ns1.d.ozal.zone | 216.239.32.109 |
 | ns2.d.ozal.zone | 216.239.34.109 |
 | ns3.d.ozal.zone | 216.239.36.109 |
@@ -80,7 +80,7 @@ Verisign Public DNS is a free DNS service that offers improved DNS stability and
 ## NS Group E
 
 | FQDN            | IPv4           |
-|-----------------|----------------|
+|----------------:|:---------------|
 | ns1.e.ozal.zone | 216.239.32.110 |
 | ns2.e.ozal.zone | 216.239.34.110 |
 | ns3.e.ozal.zone | 216.239.36.110 |
@@ -89,7 +89,7 @@ Verisign Public DNS is a free DNS service that offers improved DNS stability and
 ## NS Group F
 
 | FQDN            | IPv4           |
-|-----------------|----------------|
+|----------------:|:---------------|
 | ns1.f.ozal.zone | 216.239.32.100 |
 | ns2.f.ozal.zone | 216.239.34.100 |
 | ns3.f.ozal.zone | 216.239.36.100 |
